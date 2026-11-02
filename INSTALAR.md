@@ -31,5 +31,7 @@ repositório:
    no principal for recusado, envie o branch da sessão e explique à pessoa, em uma frase, como juntar pelo celular
    (abrir o pull request no GitHub e tocar em "Merge").
 6. Leia o `CLAUDE.md` que acabou de chegar e siga o modo nuvem: a máquina não tem placa de vídeo e o render roda
-   na CPU (`kit/INSTALAR.md`, seção 4). Depois comece a entrevista do canal, como manda o `CLAUDE.md`.
+   na CPU (`kit/INSTALAR.md`, seção 4). Ative a licença com o e-mail da compra (seção "Licença" do `CLAUDE.md`) e
+   faça commit do `.licenca.json`, para as próximas sessões não pedirem de novo. Depois comece a entrevista do
+   canal, como manda o `CLAUDE.md`.
 7. Os vídeos prontos vão para o repositório. Diga à pessoa onde baixar cada um pelo celular.
