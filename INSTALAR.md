@@ -6,7 +6,7 @@ repositório:
 > Instale a Temporada Viral seguindo https://raw.githubusercontent.com/andrefranceschini/temporada-viral-instalador/main/INSTALAR.md
 > A senha é: (a senha da área de membros)
 
-Versão do arquivo protegido: v2.1 (09/11/2026).
+Versão do arquivo protegido: v2.3 (10/11/2026).
 
 ## Passos
 
